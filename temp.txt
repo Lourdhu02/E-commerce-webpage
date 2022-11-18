@@ -1,3 +1,0 @@
-<img src="blue.png" width="219" height="219" />
-<img src="black.png" width="219" height="219" />
-<img src="white.png" width="219" height="219" />
